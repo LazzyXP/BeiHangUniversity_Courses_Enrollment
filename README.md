@@ -1,5 +1,5 @@
 # 北航研究生抢课介绍
-###❗️首先感谢 [TonyYu02](https://github.com/TonyYu02/BUAA_Course_Enrollment) 
+❗️首先感谢 [TonyYu02](https://github.com/TonyYu02/BUAA_Course_Enrollment) 
 项目的主体框架copy自TonyYu，总算让我在选课结束前捡漏到了一门英语阅读课
 
 因为这学期的英语线上课名额实在太少，不得不挂着脚本捡漏别人退选的课，如果恰好选走的是你退的课，在这里说一句抱歉
